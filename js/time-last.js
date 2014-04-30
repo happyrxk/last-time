@@ -3,10 +3,12 @@
  * User: admin
  * Date: 14-4-30
  * Time: 上午9:23
- * To change tis template use File | Settings | File Templates.
+ * To change thhis template use File | Settings | File Templates.
  */
 var lastTime;
 lastTime = function (timeStr) {
+
+
     var selfObj,
         futureTime = Date.parse(timeStr),
         nowTime = Date.now(),
